@@ -47,4 +47,4 @@ An essential tool for gauging the efficiency of clustering techniques, it depict
 
 ## Conclusion
 
-From basic visual insights to more nuanced observations, the notebook  facets of examination data.
+There are significant statistical differences in test scores based on the features analysed shown in the [Notebook](exam_analysis.ipynb) itself. Predictive modelling proved somewhat weak with the methods used, however, upon exploring clustering we see at least one very distinct cluster of scores. As further work, investigating these clusters and prediction for them individually may prove fruitful.
